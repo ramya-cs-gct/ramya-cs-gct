@@ -7,7 +7,7 @@ Hi, I’m **Ramya Arumugam**, a passionate **Java Developer** with 4+ years of e
 ### 🛠️ I specialize in:  
 ⚡ Designing and developing RESTful APIs  
 🛠️ Working with **Spring Boot, Hibernate, JUnit, and CI/CD pipelines**  
-🗄️ Database management using **MySQL & PostgreSQL**  
+🗄️ Database management using **MySQL**  
 ☁️ Cloud & DevOps tools: **Azure DevOps, Docker, Jenkins, Git, SonarQube**  
 🌐 Frontend basics with **HTML, CSS, JavaScript**  
 
@@ -26,7 +26,6 @@ Hi, I’m **Ramya Arumugam**, a passionate **Java Developer** with 4+ years of e
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
