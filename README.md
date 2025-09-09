@@ -43,3 +43,12 @@ Hi, I’m **Ramya Arumugam**, a passionate **Java Developer** with 4+ years of e
 
 💼 [LinkedIn](https://www.linkedin.com/in/ramya-a-9487881ab/)  
 📧 **ramyaarumugam72@gmail.com**  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramya-cs-gct&color=brightgreen&style=flat-square" alt="Profile Views" />
+</div>
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/ramya-cs-gct">ramya-cs-gct</a> with ❤️</i>
+</div>
