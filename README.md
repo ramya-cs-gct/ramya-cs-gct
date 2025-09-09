@@ -1,4 +1,4 @@
-![Banner](Banner-Test.png)
+![Banner](github-header-banner.png)
 
 ## 👩‍💻 About Me  
 
